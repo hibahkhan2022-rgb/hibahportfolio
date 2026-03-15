@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hibahkhan.github.io/al-folio/sitemap.xml
+Sitemap: https://hibahkhan2022-rgb.github.io/hibahportfolio/sitemap.xml
