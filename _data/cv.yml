@@ -25,64 +25,35 @@ cv:
     Education:
       - institution: The Pennsylvania State University (Main Campus)
         location: University Park, PA
-        url: https://www.psu.edu/
+        url: 
         area: Electrical Engineering
         studyType: BS
-        start_date: May 2022
-        end_date: August 2026
+        start_date: August 2022
+        end_date: May 2026
         score: ""
-        courses: "Embedded Systems, Signal Processing"
+        courses: "Embedded Systems, Signal Processing, Nanoelectronics, Circuit Design"
         highlights:
-          - Participant in IEEE workshops.
-          - Focused on hardware and AI safety.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+          - Focus on software/systems/hardware
+          - Focus on AI Safety and ethics
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - company: Lockheed Martin Corporation
+        position: Systems Engineer Intern
+        location: Mount Laurel, NJ
+        start_date: June 2025
+        end_date: August 2025
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: Amazon, Inc.
+        position: Software Development Engineer Intern
+        location: Seattle, WA
+        start_date: June 2024
+        end_date: August 2024
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Amazon, Inc.
+        position: Software Development Engineer Intern
+        location: Seattle, WA
+        start_date: May 2023
+        end_date: August 2023
 
     Volunteer:
       - company: People's Climate March
