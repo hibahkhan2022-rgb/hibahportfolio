@@ -8,12 +8,12 @@ cv:
 
   social_networks:
     - network: X
-      username: @KhanHibah72985
+      username: "@KhanHibah72985"
     - network: GitHub
       username: hibahkhan2022-rgb
     - network: LinkedIn
       username: Hibah Khan
-      
+
   address:
     street: 1800 Hidden Valley Drive
     city: Montoursville
@@ -25,16 +25,16 @@ cv:
     Education:
       - institution: The Pennsylvania State University (Main Campus)
         location: University Park, PA
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        url: https://www.psu.edu/
+        area: Electrical Engineering
+        studyType: BS
+        start_date: May 2022
+        end_date: August 2026
         score: ""
-        courses: "Theory of Relativity"
+        courses: "Embedded Systems, Signal Processing"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Participant in IEEE workshops.
+          - Focused on hardware and AI safety.
 
       - institution: Eidgenössische Technische Hochschule
         location: Zurich, Switzerland
