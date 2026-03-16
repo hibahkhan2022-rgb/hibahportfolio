@@ -3,3 +3,4 @@ Hello! My name is Hibah and I am a senior majoring in Electrical Engineering at 
 In my free time, I like to read -- follow me on [Goodreads](https://www.goodreads.com/user/show/184435926-hibah-khan) go to the gym, engage with public speaking, and create batch Spotify music playlists.
 
 To keep updated with my work, or hot takes, follow me on [LinkedIn](https://www.linkedin.com/in/hibah-khan-resume/) or [X (formerly Twitter)](https://x.com/KhanHibah72985).
+ 
