@@ -1,7 +1,7 @@
 ---
-layout: Resume
+layout: CV
 permalink: /cv/
-title: Resume
+title: CV
 nav: true
 nav_order: 2
 cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
