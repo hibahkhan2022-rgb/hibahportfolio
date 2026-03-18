@@ -656,6 +656,8 @@ third_party_libraries:
 jekyll_get_json:
   - data: resume
     json: assets/json/resume.json # it can also be an url
+  - data: fav_books
+    json: https://api.rss2json.com/v1/api.json?rss_url=https://www.goodreads.com/review/list/184435926?shelf=%23ALL%23
 
 jsonresume:
   - basics
@@ -670,14 +672,3 @@ jsonresume:
   - languages
   - interests
   - references
-
-# -----------------------------------------------------------------------------
-# Get external JSON data
-# -----------------------------------------------------------------------------
-
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json
-  # ADD THIS BLOCK BELOW:
-  - data: fav_books
-    json: https://api.rss2json.com/v1/api.json?rss_url=https://www.goodreads.com/review/list_rss/YOUR_USER_ID?shelf=favorites
