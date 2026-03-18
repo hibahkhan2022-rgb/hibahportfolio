@@ -29,7 +29,7 @@ cv:
         studyType: BS
         start_date: 2022-08
         end_date: 2026-05
-        courses: "Embedded Systems, Signal Processing, Nanoelectronics, Circuit Design"
+        courses: " Data Structures and Algorithms, Circuits and Devices, Introduction to Neural Networks, Continuous-Time Linear Systems, Electronic Circuit Design, Computer Vision, Electromagnetics, Signal Processing "
         highlights:
           - Focus on software, systems, and hardware engineering.
           - Lead Facilitator for the AI Safety Awareness Project.
@@ -87,16 +87,15 @@ cv:
           - MATLAB
 
     Volunteer:
-      - company: Microsoft TEALS Program
+      - company: AI Safety Awareness Project (AISAP)
         position: Volunteer
         location: Remote
-        start_date: 2024-06
-        end_date: 2024-09
+        start_date: 2025-06
+        end_date: Present
         highlights:
-          - Mentored high school students in introductory computer science.
-
+          - Designed and delivered sessions on LLMs, agentic AI, and responsible AI practices, engaging 20–30 participants per workshop
     Languages:
       - name: English
+        summary: Native Speaker
+      - name: Urdu/Hindi
         summary: Fluent
-      - name: German
-        summary: Native speaker
