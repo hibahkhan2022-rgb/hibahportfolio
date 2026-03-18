@@ -60,6 +60,10 @@ cv:
           - Improved internal tooling and automation workflows using Java and AWS.
 
     Projects:
+      - name: SoC Characterization and Telemetry Suite
+        start_date: 2026-03
+        end_date: 2026-03
+        summary: Tested power, performance, and thermal profile of the Orin Nano SoC under baseline and heavy AI workloads
       - name: Gesture Recognition Workshop
         start_date: 2026-01
         end_date: 2026-04
