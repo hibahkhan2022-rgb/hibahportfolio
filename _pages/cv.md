@@ -1,10 +1,10 @@
 ---
-layout: cv
+layout: Resume
 permalink: /cv/
-title: CV
+title: Resime
 nav: true
 nav_order: 2
-cv_pdf: /assets/pdf/assets/pdf/example_pdf.pdf # you can also use external links here
+cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
 description:
 toc:
